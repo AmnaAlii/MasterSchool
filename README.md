@@ -7,7 +7,6 @@ Identifying Behavioral Markers for Rewards Program Perks
 This project analyzes user assignments to hypothesized rewards program perks to identify key trends and insights for targeted marketing strategies.
 
 ## Project Summary
-Summarize your project, including key points, insights, and links to relevant files.
 
 - **Key Points and Insights**:
     - **Increased Engagement**: Identified segments show distinct behaviors that can be targeted for higher engagement.
