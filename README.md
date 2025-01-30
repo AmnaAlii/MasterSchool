@@ -15,9 +15,9 @@ This project analyzes user assignments to hypothesized rewards program perks to 
 
 ### Links to Relevant Files:
 - **[Executive Summary](https://docs.google.com/document/d/1jYEWx3T9RWALcdZaSlhPZ2uSdoCfDFuz83FG0ZKdJsk/edit?tab=t.0#heading=h.g7b1sb3yxe64)**
-- **[Presentation Slides](./Presentation_Slides.pdf)**
-- **[User Perks CSV](./user_perks.csv)**
-- **[Video Presentation](https://youtu.be/your-video-link)**
+- **[Presentation Slides](https://docs.google.com/presentation/d/17U05i1ufOYkwayciwSTd0kEiunyw4o2_Ww8Mvu9EPeU/edit#slide=id.p)**
+- **[User Perks CSV](https://drive.google.com/file/d/1cV7GOCornlJjNE6YjPQwHUjJpdNX8k6v/view?usp=sharing)**
+- **[SQL Code](https://docs.google.com/document/d/1qDkbyIQ_kEkY3i8Fu4xvZp9N2yszV6qgptbe7anRO8c/edit#heading=h.3e6msugak2yp)**
 
 ## Installation Instructions
 No installation is required for this project as it involves data analysis and presentation. All relevant files can be accessed directly.
@@ -25,14 +25,6 @@ No installation is required for this project as it involves data analysis and pr
 ## Usage Instructions
 1. Review the Executive Summary for a detailed overview of the findings.
 2. View the Presentation Slides for a concise visual representation of the key results.
-3. Watch the Video Presentation for a high-level explanation of the analysis and outcomes.
-
-## Explanation of the Directory Structure
-- **/src**: Contains source code files.
-- **/config**: Configuration files.
-- **/ipynb**: Jupyter notebooks used for the analysis.
-- **/data**: Data files, including the CSV with users assigned to perks.
-- **/docs**: Documentation files, including the Readme and Executive Summary.
 
 ## Dependencies
 No additional dependencies are required for accessing the files.
