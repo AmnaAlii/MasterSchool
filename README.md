@@ -14,7 +14,7 @@ This project analyzes user assignments to hypothesized rewards program perks to 
     - **Optimized Marketing**: Insights will help refine marketing campaigns, making them more efficient and customer-focused.
 
 ### Links to Relevant Files:
-- **[Executive Summary](./Executive_Summary.pdf)**
+- **[Executive Summary](https://docs.google.com/document/d/1jYEWx3T9RWALcdZaSlhPZ2uSdoCfDFuz83FG0ZKdJsk/edit?tab=t.0#heading=h.g7b1sb3yxe64)**
 - **[Presentation Slides](./Presentation_Slides.pdf)**
 - **[User Perks CSV](./user_perks.csv)**
 - **[Video Presentation](https://youtu.be/your-video-link)**
